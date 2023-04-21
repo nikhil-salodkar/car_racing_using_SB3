@@ -1,0 +1,5 @@
+/.idea
+/saved_models/
+/videos/
+/wandb/
+__pycache__/
